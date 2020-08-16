@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Life Cycle Logger</string>
+    <string name="main_startup_message">Tired of using Hello?</string>
+    <string name="main_button_text_yes">Yes!</string>
+    <string name="main_button_text_no">Nah..</string>
+    <string name="res_hi_message">Then, Hi World!!!</string>
+    <string name="res_hello_message">Then, Hello World!!!</string>
+    <string name="res_try_again">Try Again!</string>
+    <string name="res_button_text_back">Back</string>
+</resources>
